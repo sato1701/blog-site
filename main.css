@@ -5,6 +5,14 @@ header h1{
     margin:10px;
 }
 
+#lang{
+    float:right;
+    font-size:16px;
+    text-decoration:none;
+    list-style-type:none;
+    margin:0;
+}
+
 nav ul{
     list-style-type:none;
     text-align:center;
@@ -23,7 +31,7 @@ nav a{
     display:block;
     text-decoration:none;
     background-color:#D7F3FF;
-    transition:all 0.3s ease;
+    transition:background-color 0.3s ease;
     color:black;
 }
 nav a:hover{
