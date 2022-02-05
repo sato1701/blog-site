@@ -24,6 +24,7 @@ nav a{
     text-decoration:none;
     background-color:#D7F3FF;
     transition:all 0.3s ease;
+    color:black;
 }
 nav a:hover{
     background-color:#A7E5FF;
