@@ -1,0 +1,20 @@
+@charset “utf-8”;
+
+html{
+   
+}
+
+h1{
+    font-size:24pt;
+    text-align:center;
+}
+
+p{
+    border-top:solid;
+    border-bottom:solid;
+}
+
+ol{
+    list-style-type:none;
+}
+background:#A6EE98
