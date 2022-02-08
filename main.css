@@ -1,4 +1,14 @@
 @charset “utf-8”;
+@import url("blog.css");
+@import url("about.css");
+
+body{
+    background-color:#D7EAFF
+}
+
+.contents p{
+    text-indent:1em;
+}
 
 header h1{
     font-size:24pt;

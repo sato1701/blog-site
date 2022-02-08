@@ -1,0 +1,21 @@
+.link-list{
+    background-color:#C7D8E1;
+    border:10px outset;
+    padding:5px;
+}
+
+.link-list th{
+    border-right:2px dashed;
+}
+
+.link-list tr > :not(last-child){
+    border-bottom:2px dashed;
+}
+
+.link-list tr > *{
+    padding:2px 5px;
+}
+
+.about-ans{
+    font-size:1.4em;
+}
